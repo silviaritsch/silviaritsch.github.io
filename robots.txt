@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://silviaritsch.github.io/al-folio/sitemap.xml
+Sitemap: https://silviaritsch.github.io/sitemap.xml
