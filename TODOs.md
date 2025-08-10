@@ -1,0 +1,6 @@
+- Add master's thesis stuff.
+- Add link to stories of the month.
+- Add link to TUE page.
+- Remove dropdown menu
+- picture
+- albert
