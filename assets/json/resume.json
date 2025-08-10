@@ -1,10 +1,9 @@
 {
   "basics": {
     "name": "Silvia Ritsch",
-    "label": "Scientist",
+    "label": "PhD Student in Cryptography",
     "image": "",
     "email": "s.ritsch@tue.nl",
-    "phone": "nunya",
     "url": "https://silviaritsch.github.io",
     "summary": "Engineer turned Cryptographer",
     "profiles": [
@@ -12,6 +11,11 @@
         "network": "Linkedin",
         "username": "Silvia Ritsch",
         "url": "https://nl.linkedin.com/in/silvia-ritsch-57b830240"
+      },
+      {
+        "network": "Doctoral Network MSCA",
+        "username": "Silvia Ritsch",
+        "url": "https://quantum-safeinternet.com/team/silvia-ritsch/"
       }
     ]
   },
@@ -19,8 +23,8 @@
     {
       "institution": "Eindhoven University of Technology.",
       "position": "PhD Student",
-      "startDate": "2022",
-      "endDate": "1955-01-01"
+      "location": "Eindhoven, the Netherlands",
+      "startDate": "2022"
     },
     {
       "name": "Super Computing Systems AG",
@@ -29,6 +33,16 @@
       "url": "https://www.scs.ch/",
       "startDate": "2019",
       "endDate": "2020"
+    },
+    {
+      "name": "Centrum Wiskunde & Informatica",
+      "position": "Visiting Student",
+      "url": "https://www.cwi.nl/"
+    },
+    {
+      "name": "University of Ottawa",
+      "position": "Visiting Student",
+      "url": "https://www.uottawa.ca/faculty-science/mathematics-statistics"
     }
   ],
   "education": [
@@ -46,7 +60,7 @@
     {
       "name": "Towards post-quantum secure PAKE - A tight security proof for OCAKE in the BPR model",
       "publisher": "International Conference on Cryptology and Network Security",
-      "releaseDate": "2024/9/24",
+      "releaseDate": "2024",
       "url": "https://link.springer.com/chapter/10.1007/978-981-97-8016-7_9",
       "summary": "A game-based proof of OCAKE security."
     },
@@ -65,11 +79,9 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Network Security",
-        "Embedded Software Development",
+        "Embedded Software",
         "Applied Cryptography",
-        "Constructive Cryptography",
-        "IoT",
-        "ML"
+        "Constructive Cryptography"
       ]
     }
   ],
