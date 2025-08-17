@@ -37,12 +37,14 @@
     {
       "name": "Centrum Wiskunde & Informatica",
       "position": "Visiting Student",
-      "url": "https://www.cwi.nl/"
+      "url": "https://www.cwi.nl/",
+      "location": "Amsterdam, NL"
     },
     {
       "name": "University of Ottawa",
       "position": "Visiting Student",
-      "url": "https://www.uottawa.ca/faculty-science/mathematics-statistics"
+      "url": "https://www.uottawa.ca/faculty-science/mathematics-statistics",
+      "location": "Ottawa, Canada"
     }
   ],
   "education": [
@@ -51,8 +53,17 @@
       "location": "Zurich, Switzerland",
       "url": "https://www.ethz.ch/",
       "area": "Electrical Engineering and Information Technology",
-      "studyType": "MSc, BSc",
+      "studyType": "BSc EEIT",
       "startDate": "2015",
+      "endDate": "2020"
+    },
+    {
+      "institution": "Eidgenoessische Technische Hochschule Zuerich",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.ethz.ch/",
+      "area": "Electrical Engineering and Information Technology",
+      "studyType": "MSc EEIT",
+      "startDate": "2020",
       "endDate": "2022"
     }
   ],
@@ -62,14 +73,23 @@
       "publisher": "International Conference on Cryptology and Network Security",
       "releaseDate": "2024",
       "url": "https://link.springer.com/chapter/10.1007/978-981-97-8016-7_9",
-      "summary": "A game-based proof of OCAKE security."
+      "summary": "A game-based proof of OCAKE security.",
+      "authors": "Nouri Alnahawi, Kathrin Hövelmanns, Andreas Hülsing & Silvia Ritsch"
     },
     {
       "name": "CAKE requires programming - On the provable post-quantum security of (O)CAKE",
       "publisher": "Cryptology eprint archive",
       "releaseDate": "2025",
       "url": "https://eprint.iacr.org/2025/458",
-      "summary": "Investigating programmability requirements on ciphers to find the way to PQ PAKE."
+      "summary": "Investigating programmability requirements on ciphers to find the way to PQ PAKE.",
+      "authors":"Kathrin Hövelmanns and Andreas Hülsing and Mikhail Kudinov and Silvia Ritsch"
+    },
+    {
+      "name": "Report on evaluation of KpqC Round-2 candidates",
+      "publisher": "Cryptology ePrint Archive",
+      "releaseDate": "2024",
+      "url":"https://eprint.iacr.org/2024/2077",
+      "authors": "Daniel J. Bernstein,Jolijn Cottaar,Emanuele Di Giandomenico,Kathrin Hövelmanns,Andreas Hülsing,Mikhail Kudinov,Tanja Lange,Mairon Mahzoun,Matthias Meijers,Alex Pellegrini,Alberto Ravagnani,Silvia Ritsch,Sven Schäge,Tianxin Tang,Monika Trimoska,Marc Vorstermans,Fiona Johanna Weber"
     }
   ],
   "skills": [
@@ -98,7 +118,7 @@
     },
     {
       "language": "Dutch",
-      "fluency": "Een beetje",
+      "fluency": "Basic",
       "icon": ""
     }
   ],
@@ -108,10 +128,23 @@
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Provable Security",
-        "Key Exchange",
+        "Key Exchange"
+      ]
+    },
+    {
+      "name": "Quantum",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
         "Quantum Computing",
         "Quantum Information",
         "Quantum Cryptography"
+      ]
+    },
+    {
+      "name": "Other",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Bad puns"
       ]
     }
   ]
