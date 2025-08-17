@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Silvia
 middle_name: 
 last_name: Ritsch
-contact_note: >
+contact_note:
   Reach out to me via email or Linkedin.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Just a key exchange girl in a man-in-the-middle world.
@@ -85,10 +85,6 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
-
-collections:
-  books:
-    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -182,16 +178,6 @@ terser:
 # Jekyll Archives
 # -----------------------------------------------------------------------------
 
-jekyll-archives:
-  posts:
-    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
-    permalinks:
-      year: "/blog/:year/"
-      tags: "/blog/:type/:name/"
-      categories: "/blog/:type/:name/"
-  books:
-    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
-
 display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
 display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
 
@@ -200,8 +186,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Ritsch]
+  first_name: [Silvia]
 
   style: apa
   locale: en
